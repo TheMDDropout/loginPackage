@@ -17,7 +17,7 @@ loginPackageTheMDDropout.createSignInContainer();
 
 ### Options
 The imported function accepts four arguments. The default argument settings will:
- * append onto the document body
+ * append the login module onto the document body
  * include a default company logo
  * display initial title text "Welcome Back!"
  * set required password to level 5 (see below)

@@ -1,0 +1,35 @@
+{
+  "name": "loginpackage-themddropout",
+  "version": "1.0.0",
+  "description": "This is a personal practice module which creates a user login/signup page.",
+  "main": "loginPackage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMDDropout/loginPackage.git"
+  },
+  "files": [
+    "loginPackage.css",
+    "images/envelope.svg",
+    "google-plus.svg",
+    "logo.png",
+    "padlock.svg"
+  ]
+  ,
+  "keywords": [
+    "login",
+    "signup",
+    "client",
+    "side",
+    "validation",
+    "password"
+  ],
+  "author": "Anthony Yip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheMDDropout/loginPackage/issues"
+  },
+  "homepage": "https://github.com/TheMDDropout/loginPackage#readme"
+}
