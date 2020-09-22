@@ -4,7 +4,7 @@
 
 This is a personal practice module which creates a user login/signup page. 
 
-<img src="/images/login1.png" width="300"/> <img src="/images/login2.png" width="300"/>
+<img src="/images/login1.png" width="400"/> <img src="/images/login2.png" width="400"/>
 
 The module includes a user login page, which accepts email/password, a sign-in with Google option, and a "demo" button option. 
 Selecting the sign up button will open the sign up panel, which requires an email and password. The signup form inplments client-side Javascript form validation with easilty customizable password security options. 
