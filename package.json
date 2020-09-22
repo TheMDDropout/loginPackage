@@ -1,6 +1,6 @@
 {
   "name": "loginpackage-themddropout",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a personal practice module which creates a user login/signup page.",
   "main": "loginPackage.js",
   "scripts": {
@@ -30,5 +30,6 @@
   "bugs": {
     "url": "https://github.com/TheMDDropout/loginPackage/issues"
   },
-  "homepage": "https://github.com/TheMDDropout/loginPackage#readme"
+  "homepage": "https://github.com/TheMDDropout/loginPackage#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }

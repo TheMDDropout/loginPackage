@@ -6,14 +6,17 @@ The module includes a user login page, which accepts email/password, a sign-in w
 Selecting the sign up button will open the sign up panel, which requires an email and password. The signup form inplments client-side Javascript form validation with easilty customizable password security options. 
 
 ### Installation 
-`npm i loginPackageTheMDDropout --save`
+Make sure you're using a module bundler, such as Webpack. 
+
+`npm i loginpackage-themddropout --save`
 
 Then...
 ```
-import {loginPackageTheMDDropout} from "loginPackage"
+import {loginPackageTheMDDropout} from "loginpackage-themddropout"
 
 loginPackageTheMDDropout.createSignInContainer();
 ```
+CSS style sheets and required images are included as seperate files within the loginpackage module. Copy these over your working directory. 
 
 ### Options
 The imported function accepts four arguments. The default argument settings will:

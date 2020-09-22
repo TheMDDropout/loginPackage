@@ -1,4 +1,3 @@
-import 'loginPackage.css'
 let loginPackageTheMDDropout = (() => {
 
     const createElement = (name, inputClass, type = 'div', classOrID = 'id') => {
