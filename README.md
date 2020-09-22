@@ -1,5 +1,6 @@
 # Login Screen
 ### What is this?
+[npm Link](https://www.npmjs.com/package/loginpackage-themddropout)
 This is a personal practice module which creates a user login/signup page. 
 
 The module includes a user login page, which accepts email/password, a sign-in with Google option, and a "demo" button option. 
