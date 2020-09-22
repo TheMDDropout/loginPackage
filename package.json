@@ -1,6 +1,6 @@
 {
   "name": "loginpackage-themddropout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a personal practice module which creates a user login/signup page.",
   "main": "loginPackage.js",
   "scripts": {
@@ -16,8 +16,7 @@
     "google-plus.svg",
     "logo.png",
     "padlock.svg"
-  ]
-  ,
+  ],
   "keywords": [
     "login",
     "signup",
