@@ -1,5 +1,5 @@
 {
-  "name": "@TheMDDropout/loginpackage-themddropout",
+  "name": "loginpackage-themddropout",
   "version": "1.0.2",
   "description": "This is a personal practice module which creates a user login/signup page.",
   "main": "loginPackage.js",
