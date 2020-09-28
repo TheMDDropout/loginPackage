@@ -283,7 +283,7 @@ let loginPackageTheMDDropout = (() => {
         welcomeText.innerHTML = usertext;
         emailInputArea.setAttribute('placeholder', 'Email Address')
     }
-
+    createSignInContainer();
     return {
         createSignInContainer
     }
